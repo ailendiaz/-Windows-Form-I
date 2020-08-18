@@ -17,7 +17,7 @@ namespace WindowsFormsAppOne
             InitializeComponent();
             this.Name = "Primera aplicacion, programacion III";
             this.Text = "Mi primera app";
-            this.BackColor = Color.LightPink;
+            this.BackColor = Color.DarkGray;
             this.StartPosition = FormStartPosition.CenterScreen;
             this.WindowState = FormWindowState.Normal;
         }
